@@ -64,3 +64,6 @@ When ready for Version 1B:
 - Automatic hiding of users who leave the Discord
 - WoW-style live item tooltips
 - Recipe materials support
+
+## Visual refresh
+This build uses the supplied Vindictus Tree of Life artwork as the primary guild mark and applies the dark fantasy / antique-gold dashboard direction across desktop and mobile. Sample member and recipe records remain illustrative demo data until the authoritative WoW: Forever dataset is imported.
